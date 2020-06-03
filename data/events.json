@@ -1,0 +1,1 @@
+[null,{"name":"SetGame","temp":"5","event-type":"3","actions":[{"gameName":"Koxy Totalne","gameLink":"","name":"Set Bot Game"},{"time":"5","measurement":"1","name":"Wait"},{"status":"0","name":"Set Bot Status"}]}]
